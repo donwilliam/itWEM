@@ -1,0 +1,23 @@
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Debug\le\FEZ Domino Application.exe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Debug\be\FEZ Domino Application.exe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Debug\le\FEZ Domino Application.pdb
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Debug\be\FEZ Domino Application.pdb
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Debug\FEZ Domino Application.exe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Debug\FEZ Domino Application.pdb
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Debug\le\FEZ Domino Application.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Debug\le\FEZ Domino Application.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Debug\be\FEZ Domino Application.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Debug\be\FEZ Domino Application.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Debug\HeatLightSensor.Resources.resources
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Debug\HeatLightSensor.Resources.tinyresources
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Debug\TinyResGen.cache
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Debug\be\FEZ Domino Application.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Debug\be\FEZ Domino Application.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Debug\le\FEZ Domino Application.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Debug\le\FEZ Domino Application.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Debug\FEZ Domino Application.exe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Debug\FEZ Domino Application.pdb
