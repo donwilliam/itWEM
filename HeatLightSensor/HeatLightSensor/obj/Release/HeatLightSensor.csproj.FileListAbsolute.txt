@@ -1,0 +1,59 @@
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\le\FEZ Domino Application.exe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\be\FEZ Domino Application.exe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\le\FEZ Domino Application.pdb
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\be\FEZ Domino Application.pdb
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\FEZ Domino Application.exe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\FEZ Domino Application.pdb
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\le\FEZ Domino Application.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\le\FEZ Domino Application.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\be\FEZ Domino Application.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\be\FEZ Domino Application.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\LE\GHIElectronics.NETMF.Net.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\LE\GHIElectronics.NETMF.W5100.Dhcp.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\LE\GHIElectronics.NETMF.W5100.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\LE\GHIElectronics.NETMF.W5100.Http.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\LE\GHIElectronics.NETMF.System.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\BE\GHIElectronics.NETMF.Net.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\BE\GHIElectronics.NETMF.W5100.Dhcp.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\BE\GHIElectronics.NETMF.W5100.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\BE\GHIElectronics.NETMF.W5100.Http.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\BE\GHIElectronics.NETMF.System.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\LE\GHIElectronics.NETMF.Net.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\LE\GHIElectronics.NETMF.W5100.Dhcp.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\LE\GHIElectronics.NETMF.W5100.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\LE\GHIElectronics.NETMF.W5100.Http.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\BE\GHIElectronics.NETMF.Net.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\BE\GHIElectronics.NETMF.W5100.Dhcp.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\BE\GHIElectronics.NETMF.W5100.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\BE\GHIElectronics.NETMF.W5100.Http.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\GHIElectronics.NETMF.Hardware.dll
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\GHIElectronics.NETMF.Net.dll
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\GHIElectronics.NETMF.W5100.Dhcp.dll
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\GHIElectronics.NETMF.W5100.dll
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\GHIElectronics.NETMF.W5100.Http.dll
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\GHIElectronics.NETMF.System.dll
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\GHIElectronics.NETMF.Hardware.xml
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\GHIElectronics.NETMF.Net.xml
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\GHIElectronics.NETMF.W5100.xml
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\GHIElectronics.NETMF.W5100.Dhcp.xml
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\GHIElectronics.NETMF.W5100.Http.xml
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\bin\Release\GHIElectronics.NETMF.System.xml
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Release\TinyCLR_DebugReferences.cache
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Release\HeatLightSensor.Resources.resources
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Release\GenerateResource.read.1.tlog
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Release\GenerateResource.write.1.tlog
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Release\HeatLightSensor.Resources.tinyresources
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Release\TinyResGen.cache
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Release\be\FEZ Domino Application.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Release\be\FEZ Domino Application.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Release\le\FEZ Domino Application.pe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Release\le\FEZ Domino Application.pdbx
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Release\FEZ Domino Application.exe
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\HeatLightSensor\HeatLightSensor\obj\Release\FEZ Domino Application.pdb

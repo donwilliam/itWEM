@@ -43,9 +43,15 @@
       <SpecificVersion>False</SpecificVersion>
       <Private>False</Private>
     </Reference>
+    <Reference Include="GHIElectronics.NETMF.Hardware, Version=4.1.6.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="GHIElectronics.NETMF.Net, Version=4.1.6.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="GHIElectronics.NETMF.W5100, Version=4.1.6.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="GHIElectronics.NETMF.W5100.Dhcp, Version=4.1.6.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="GHIElectronics.NETMF.W5100.Http, Version=4.1.6.0, Culture=neutral, processorArchitecture=MSIL" />
     <Reference Include="Microsoft.SPOT.Hardware" />
     <Reference Include="Microsoft.SPOT.Native">
     </Reference>
+    <Reference Include="System.IO" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resources.resx">

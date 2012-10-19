@@ -1,0 +1,10 @@
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\CloudServiceForITWEM\WebRole1\bin\WebRole1.dll
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\CloudServiceForITWEM\WebRole1\bin\WebRole1.pdb
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\CloudServiceForITWEM\WebRole1\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\CloudServiceForITWEM\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\CloudServiceForITWEM\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\CloudServiceForITWEM\WebRole1\bin\System.Web.Providers.dll
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\CloudServiceForITWEM\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\CloudServiceForITWEM\WebRole1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\CloudServiceForITWEM\WebRole1\obj\Debug\WebRole1.dll
+C:\Users\donwilliam\Documents\My Dropbox\windowsprog\aflevering2\CloudServiceForITWEM\WebRole1\obj\Debug\WebRole1.pdb
