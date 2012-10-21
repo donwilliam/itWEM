@@ -1,0 +1,14 @@
+c:\users\bjørn\documents\visual studio 2010\Projects\RC Home\RC Home\Bin\Debug\ApplicationIcon.png
+c:\users\bjørn\documents\visual studio 2010\Projects\RC Home\RC Home\Bin\Debug\Background.png
+c:\users\bjørn\documents\visual studio 2010\Projects\RC Home\RC Home\Bin\Debug\RC Home.dll
+c:\users\bjørn\documents\visual studio 2010\Projects\RC Home\RC Home\Bin\Debug\RC Home.pdb
+c:\users\bjørn\documents\visual studio 2010\Projects\RC Home\RC Home\obj\Debug\App.g.i.cs
+c:\users\bjørn\documents\visual studio 2010\Projects\RC Home\RC Home\obj\Debug\MainPage.g.i.cs
+c:\users\bjørn\documents\visual studio 2010\Projects\RC Home\RC Home\obj\Debug\RC Home.g.resources
+c:\users\bjørn\documents\visual studio 2010\Projects\RC Home\RC Home\obj\Debug\RC Home.dll
+c:\users\bjørn\documents\visual studio 2010\Projects\RC Home\RC Home\obj\Debug\RC Home.pdb
+C:\Users\Bjørn\documents\visual studio 2010\Projects\RC Home\RC Home\Bin\Debug\AppManifest.xaml
+C:\Users\Bjørn\documents\visual studio 2010\Projects\RC Home\RC Home\Bin\Debug\RC_Home.xap
+C:\Users\Bjørn\documents\visual studio 2010\Projects\RC Home\RC Home\obj\Debug\XapCacheFile.xml
+C:\Users\Bjørn\documents\visual studio 2010\Projects\RC Home\RC Home\obj\Debug\lightPage.g.i.cs
+C:\Users\Bjørn\documents\visual studio 2010\Projects\RC Home\RC Home\obj\Debug\tempPage.g.i.cs

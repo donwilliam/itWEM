@@ -1,0 +1,56 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="RC_Home.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="161"/>
+            <RowDefinition Height="607*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="RC HOUSE" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="room status" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel contains ListBox and ListBox ItemTemplate. Place additional content here-->
+        <Grid x:Name="ContentPanel" Margin="12,139,12,0" Grid.RowSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="308" />
+                <RowDefinition Height="321" />
+            </Grid.RowDefinitions>
+            <Image Height="224" HorizontalAlignment="Center" Name="tempImage" Stretch="Fill" VerticalAlignment="Center" Width="214" Source="/RC%20Home;component/Images/TemperatureIcon.png" Grid.ColumnSpan="2" Margin="121,42" ImageFailed="tempImage_ImageFailed" Tap="tempImage_Tap"/>
+            <TextBlock Height="99" HorizontalAlignment="Left" Margin="247,209,0,0" Name="temperatureBlock" Text="25" VerticalAlignment="Top" TextAlignment="Right" Width="112" FontSize="72" TextTrimming="None" FontStretch="Normal" FontWeight="Black" />
+            <Image Height="224" HorizontalAlignment="Center" Name="lightImage" Source="/RC%20Home;component/Images/LightIcon.png" Stretch="Fill" VerticalAlignment="Center" Width="214" Grid.Row="1" Grid.ColumnSpan="2" Margin="121,38" ImageFailed="lightImage_ImageFailed" Tap="lightImage_Tap"/>
+            <TextBlock FontSize="72" FontStretch="Normal" FontWeight="Black" Height="90" HorizontalAlignment="Left" Margin="243,211,0,0" Name="lightBlock" Text="12" TextAlignment="Right" TextTrimming="None" VerticalAlignment="Top" Width="112" Grid.Row="1" />
+            <TextBlock Height="56" HorizontalAlignment="Left" Margin="363,218,0,0" Name="celciusBlock" Text="°" VerticalAlignment="Top" Width="28" FontSize="48" />
+            <TextBlock FontSize="48" Height="56" HorizontalAlignment="Left" Margin="357,222,0,0" Name="wattBlock" Text="W" VerticalAlignment="Top" Width="55" Grid.Row="1" />
+        </Grid>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>
